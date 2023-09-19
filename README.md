@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erikamagnaye
-- 💻 I’m interested in web development and UI/UX designing...
-- ⚙️ C++, Visual basic.net, SQL, MS access,Figma
+- 💻  web developer and UI/UX designer.
+- ⚙️Skills: C++, Visual basic.net, SQL, MS access,Figma
 - 📞 09683775270
 - ✉️21-31350@g.batstate-u.edu.ph
 -
